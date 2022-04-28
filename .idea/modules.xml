@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotificatingSpcedLearning.iml" filepath="$PROJECT_DIR$/NotificatingSpcedLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NotificationLearningTool.iml" filepath="$PROJECT_DIR$/.idea/NotificationLearningTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NotificationLearningTool.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NotificationLearningTool.app.iml" />
     </modules>
   </component>
 </project>
